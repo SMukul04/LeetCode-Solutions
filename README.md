@@ -25,6 +25,6 @@ Problem Number - Problem Name
 ## Profile
 
 - GitHub: https://github.com/SMukul04
-- LeetCode: (Add your LeetCode profile link here)
+- LeetCode: https://www.linkedin.com/in/mukul-singh-11b71030b/
 
 Happy Coding! 🚀
