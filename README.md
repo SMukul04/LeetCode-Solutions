@@ -53,4 +53,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
