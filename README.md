@@ -61,4 +61,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0595-big-countries) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
