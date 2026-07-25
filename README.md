@@ -64,6 +64,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -76,4 +77,8 @@ Happy Coding! 🚀
 | ------- |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
