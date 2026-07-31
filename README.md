@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +104,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
