@@ -74,6 +74,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -105,4 +106,12 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
