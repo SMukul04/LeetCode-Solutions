@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0372-super-pow](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -129,4 +130,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
