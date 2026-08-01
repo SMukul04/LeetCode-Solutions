@@ -73,6 +73,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
@@ -124,4 +125,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
