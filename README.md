@@ -111,8 +111,17 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
