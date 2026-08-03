@@ -89,6 +89,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -136,4 +137,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0372-super-pow) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
