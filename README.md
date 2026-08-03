@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0372-super-pow](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
