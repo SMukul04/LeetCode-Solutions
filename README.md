@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -165,6 +166,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
