@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +178,7 @@ Happy Coding! 🚀
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -207,9 +210,18 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
