@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -111,6 +112,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0079-word-search) |
@@ -232,4 +234,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
