@@ -118,6 +118,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -224,4 +225,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
