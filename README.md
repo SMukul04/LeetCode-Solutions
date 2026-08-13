@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -165,6 +166,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -202,6 +204,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
