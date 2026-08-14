@@ -126,6 +126,7 @@ Happy Coding! 🚀
 | [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -225,6 +227,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Algorithm X
 |  |
 | ------- |
