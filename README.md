@@ -133,6 +133,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -260,4 +261,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
