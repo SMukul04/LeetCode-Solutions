@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Happy Coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -212,6 +215,7 @@ Happy Coding! 🚀
 | ------- |
 | [0078-subsets](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Enumeration
 |  |
 | ------- |
