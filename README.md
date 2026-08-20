@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -146,6 +147,7 @@ Happy Coding! 🚀
 | ------- |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
