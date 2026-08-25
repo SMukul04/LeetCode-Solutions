@@ -75,6 +75,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -171,6 +172,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
@@ -283,6 +285,7 @@ Happy Coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
