@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -193,6 +194,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -298,6 +300,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
