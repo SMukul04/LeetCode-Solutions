@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0860-lemonade-change](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2418-sort-the-people](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -153,6 +154,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
