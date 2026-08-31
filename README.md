@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [1636-sort-array-by-increasing-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2418-sort-the-people](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -152,6 +153,7 @@ Happy Coding! 🚀
 | [0876-middle-of-the-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Happy Coding! 🚀
 | ------- |
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
