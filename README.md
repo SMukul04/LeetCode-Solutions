@@ -39,6 +39,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -190,6 +191,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -365,4 +367,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
