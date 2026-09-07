@@ -34,6 +34,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -258,6 +260,7 @@ Happy Coding! 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
