@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -151,6 +152,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -171,6 +173,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
