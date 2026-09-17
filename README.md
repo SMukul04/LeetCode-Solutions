@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | [1636-sort-array-by-increasing-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0860-lemonade-change](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2126-destroying-asteroids](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 ## Simulation
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2126-destroying-asteroids](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2418-sort-the-people](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SMukul04/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
