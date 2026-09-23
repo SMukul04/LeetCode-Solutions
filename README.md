@@ -46,6 +46,7 @@ Happy Coding! 🚀
 | [0496-next-greater-element-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -215,6 +216,7 @@ Happy Coding! 🚀
 | [0155-min-stack](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [1603-design-parking-system](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
@@ -346,6 +348,7 @@ Happy Coding! 🚀
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Heap (Priority Queue)
 |  |
@@ -399,4 +402,8 @@ Happy Coding! 🚀
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
