@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/SMukul04/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -350,6 +352,7 @@ Happy Coding! 🚀
 | [0503-next-greater-element-ii](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SMukul04/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/SMukul04/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
